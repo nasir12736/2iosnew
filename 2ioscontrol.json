@@ -1,6 +1,6 @@
 {
   "active": true,
-  "password_required": false,
+  "password_required": true,
   "blocked": [
   "uid_795758",
   "uid_959867",
