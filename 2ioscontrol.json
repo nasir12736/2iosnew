@@ -1,6 +1,6 @@
 {
   "active": true,
-  "password_required": true,
+  "password_required": false,
   "blocked": [
   "uid_795758",
   "uid_959867",
@@ -83,3 +83,4 @@
     "uid_591905": { "name": "SaifTrader", "password": "Pass20" }
   }
 }
+ 
